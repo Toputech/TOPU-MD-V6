@@ -8,7 +8,7 @@ cmd({
     alias: "ai",
     desc: "Interact with ChatGPT using the Dreaded API.",
     category: "ai",
-    react: "🤖",
+    react: "🆓",
     use: "<your query>",
     filename: __filename,
 }, async (conn, mek, m, { from, args, q, reply }) => {
@@ -60,11 +60,11 @@ cmd({
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
-                isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ ᴀɪ🤖',
-                    serverMessageId: 143
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+              newsletterJid: '120363295141350550@newsletter',
+              newsletterName: 'ALONE Queen MD V²',
+              serverMessageId: 143},
                 }
             }
         }, { quoted: mek });
@@ -94,7 +94,7 @@ cmd({
     pattern: "google",
     desc: "Get a response from Llama3 AI using the provided prompt.",
     category: "ai",
-    react: "🤖",
+    react: "🆓",
     filename: __filename,
     use: ".llama3 <your prompt>"
 }, async (conn, mek, m, { from, q, reply }) => {
@@ -135,11 +135,11 @@ cmd({
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
-                isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ ᴀɪ 🤖',
-                    serverMessageId: 143
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+              newsletterJid: '120363295141350550@newsletter',
+              newsletterName: 'ALONE Queen MD V²',
+              serverMessageId: 143},
                 }
             }
         }, { quoted: mek });

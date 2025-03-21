@@ -1,12 +1,12 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "TOPU MD V⁶",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
-    "stop": "pm2 stop CASEYRHODES-XMD",
-    "restart": "pm2 restart CASEYRHODES-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name TOPU-MD",
+    "stop": "pm2 stop TOPU-MD",
+    "restart": "pm2 restart TOPU-MD"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",

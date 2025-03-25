@@ -27,7 +27,7 @@ cmd({
         'quoted': _0x2bbd0c
       });
       await _0x4be391.sendMessage(_0x529db2, {
-        'text': "🚫 ⚠️💎 CASEYRHODES XMD💎 BAD WORDS NOT ALLOWED⚠️ 🚫"
+        'text': "🚫 ⚠️ 𝐓𝐎𝐏𝐔 𝐌𝐃 𝐕⁶ Say's BAD WORDS NOT ALLOWED⚠️ 🚫"
       }, {
         'quoted': _0x2bbd0c
       });
@@ -61,7 +61,7 @@ cmd({
         'quoted': _0x4807fa
       });
       await _0x488fe3.sendMessage(_0x49635a, {
-        'text': "⚠️💎 CASEYRHODES XMD 💎 Links are not allowed in this group.\n@" + _0x36e9e2.split('@')[0x0] + " has been removed. 🚫",
+        'text': "⚠️  𝐓𝐎𝐏𝐔 𝐌𝐃 𝐕⁶ says Links are not allowed in this group.\n@" + _0x36e9e2.split('@')[0x0] + " has been removed. 🚫",
         'mentions': [_0x36e9e2]
       }, {
         'quoted': _0x4807fa

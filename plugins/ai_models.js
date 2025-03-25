@@ -8,7 +8,7 @@ cmd({
     alias: "ai",
     desc: "Interact with ChatGPT using the Dreaded API.",
     category: "ai",
-    react: "🆓",
+    react: "🦶",
     use: "<your query>",
     filename: __filename,
 }, async (conn, mek, m, { from, args, q, reply }) => {
@@ -63,7 +63,7 @@ cmd({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363295141350550@newsletter',
-              newsletterName: 'ALONE Queen MD V²',
+              newsletterName: 'TOPU MD V⁶',
               serverMessageId: 143},
                 }
             }
@@ -94,7 +94,7 @@ cmd({
     pattern: "google",
     desc: "Get a response from Llama3 AI using the provided prompt.",
     category: "ai",
-    react: "🆓",
+    react: "🦶",
     filename: __filename,
     use: ".llama3 <your prompt>"
 }, async (conn, mek, m, { from, q, reply }) => {
@@ -138,7 +138,7 @@ cmd({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363295141350550@newsletter',
-              newsletterName: 'ALONE Queen MD V²',
+              newsletterName: 'TOPU MD V⁶',
               serverMessageId: 143},
                 }
             }
